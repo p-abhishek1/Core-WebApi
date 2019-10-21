@@ -47,7 +47,7 @@ namespace Library.API.Controllers
                 previousPageLink = previousPageLink,
                 nextPageLink = nextPageLink
             };
-
+            /* Add Headers in response object*/
             Response.Headers.Add("X-Pagination",
                 Newtonsoft.Json.JsonConvert.SerializeObject(paginationMetadata));
 
