@@ -13676,11 +13676,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patangaa\\Downloads\\Training PluralSight\\Core .Net\\2.Building a RESTful API\\07\\demos\\csproj-msbuild_core2\\end\\Library\\src\\Library.API\\Library.API.csproj",
+      "projectUniqueName": "C:\\R&D\\Library\\src\\Library.API\\Library.API.csproj",
       "projectName": "Library.API",
-      "projectPath": "C:\\Users\\patangaa\\Downloads\\Training PluralSight\\Core .Net\\2.Building a RESTful API\\07\\demos\\csproj-msbuild_core2\\end\\Library\\src\\Library.API\\Library.API.csproj",
+      "projectPath": "C:\\R&D\\Library\\src\\Library.API\\Library.API.csproj",
       "packagesPath": "C:\\Users\\patangaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patangaa\\Downloads\\Training PluralSight\\Core .Net\\2.Building a RESTful API\\07\\demos\\csproj-msbuild_core2\\end\\Library\\src\\Library.API\\obj\\",
+      "outputPath": "C:\\R&D\\Library\\src\\Library.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
