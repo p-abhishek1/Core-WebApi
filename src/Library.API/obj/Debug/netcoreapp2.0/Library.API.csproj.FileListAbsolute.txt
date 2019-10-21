@@ -1,0 +1,12 @@
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\bin\Debug\netcoreapp2.0\nlog.config
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.deps.json
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.runtimeconfig.json
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.runtimeconfig.dev.json
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.dll
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.pdb
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.csprojAssemblyReference.cache
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.csproj.CoreCompileInputs.cache
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.AssemblyInfoInputs.cache
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.AssemblyInfo.cs
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.dll
+C:\Users\patangaa\Downloads\Training PluralSight\Core .Net\2.Building a RESTful API\07\demos\csproj-msbuild_core2\end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.pdb
